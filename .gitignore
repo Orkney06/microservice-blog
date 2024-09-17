@@ -2,6 +2,7 @@
 /node_modules
 /commnets/node_modules
 /posts/node_modules
+/client/node_modules
 /.pnp
 .pnp.js
 
